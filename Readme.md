@@ -1,3 +1,5 @@
+(NOTE: This project was done in Spring 2024 for DS5110: Big Data Systems as part of the University of Virginia's MS Data Science coursework. This reupload is for easier direct access as the [original repo](https://github.com/UVA-MLSys/Big-Data-Systems/tree/main/Team%202) also contains projects from the entire class.)
+
 # Batch & Stream
 ### Alex Lilly, RJ Cubarrubia, Abigail Snyder​
 
